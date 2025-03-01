@@ -1,4 +1,4 @@
-# Crop prediction is essential for optimizing agricultural production, enhancing food security, and promoting sustainability. Traditional methods often fall short in handling the growing complexity and volume of agricultural data. 
-# Our robust crop yield prediction model integrates meteorological, environmental, economic, and crop-specific data using advanced data mining and machine learning techniques. 
-# By leveraging decision tree regressors, the model captures non-linear relationships among variables, enabling accurate and rapid forecasting tailored to local conditions, crop types, and climate variability. 
-# This data-driven approach improves yield forecasting accuracy, supports sustainable practices, and enhances agricultural resilience, ultimately fostering a more productive and sustainable ecosystem.
+Crop prediction is essential for optimizing agricultural production, enhancing food security, and promoting sustainability. Traditional methods often fall short in handling the growing complexity and volume of agricultural data. 
+Our robust crop yield prediction model integrates meteorological, environmental, economic, and crop-specific data using advanced data mining and machine learning techniques. 
+By leveraging decision tree regressors, the model captures non-linear relationships among variables, enabling accurate and rapid forecasting tailored to local conditions, crop types, and climate variability. 
+This data-driven approach improves yield forecasting accuracy, supports sustainable practices, and enhances agricultural resilience, ultimately fostering a more productive and sustainable ecosystem.
